@@ -13,3 +13,5 @@ Welcome to my website!
 ### Diamonds in 3ds Max (Autodesk)
 ![Image](diamond.jpg)
 
+### Headphones in 3ds Max (Autodesk)
+![Image](headphones.jpg)
