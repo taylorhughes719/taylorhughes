@@ -14,4 +14,4 @@ Welcome to my website!
 ![Image](diamond.jpg)
 
 ### Headphones in 3ds Max (Autodesk)
-![Image](headphones.jpg)
+![Image](headphone.jpg)
